@@ -1,5 +1,5 @@
 # Journal-of-Ecology-Forest-Regeneration
-This is a repository for the Journal of Ecology article - Long-term empirical evidence shows post-disturbance climate controls post-fire regeneration. This stored on Zenodo. https://doi.org/10.5281/zenodo.8475 
+This is a repository for the Journal of Ecology article - Long-term empirical evidence shows post-disturbance climate controls post-fire regeneration. This stored on Zenodo.  
 
 Abstract: 
 1.	Increased wildfire activity and climate change have intensified disturbance regimes globally and have raised concern among scientists and land managers about the resilience of disturbed landscapes. Here we test the effects of climate, topographic variation, and pre-fire stand structure on post high severity fire regeneration in lodgepole pine (Pinus contorta var. latifolia) forests over the past decades. 
